@@ -5,5 +5,4 @@ Beautiful neumorphic form using HTML and CSS
 I have used box shadow and inset properties to achieve this effect
 
 # Final Output : 
-
-![](Neumorphic-form.png)
+![](Neumorphic -form.png)
